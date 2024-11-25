@@ -34,5 +34,7 @@ public class recursividad {
         int result3 = linearSum(data3, n3);
         System.out.println("La suma de los primeros " + n3 + " elementos es: " + result3);  
     }
+      
+
  
 }
